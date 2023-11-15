@@ -1,1 +1,1 @@
-# ATM_project
+# ATM 프로그램
